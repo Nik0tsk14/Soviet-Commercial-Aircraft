@@ -1,0 +1,32 @@
+h1{
+    color: rgb(197, 20, 20);
+    text-align: center;
+    font-family: 'Ruslan Display', cursive;
+}
+body{
+    background-color: skyblue;
+}
+ul,ol{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(38, 38, 38);
+}
+/* Block tag */
+div{
+    background-color: bisque;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.356);
+    padding: 25px;
+}
+h3{
+    text-align: center;
+    font-family: 'Ruslan Display', cursive;
+    color: rgb(156, 0, 0);
+}
+#favorite{
+    text-decoration: underline;
+}
+.yak{
+    color: cadetblue;
+}
